@@ -1,0 +1,10 @@
+video-name,low-resolution,high-resolution,low_qp,high_qp,batch-size,low-threshold,high-threshold,tracker-length,TP,FP,FN,F1,low-size,high-size,total-size,frames,mode
+results/trafficcam_1_mpeg_0.2_30,0.2,-1,30,-1,15,0.3,0.8,4,130,1,132,0.662,78689,0,78689,30,mpeg
+results/trafficcam_1_mpeg_0.3_30,0.3,-1,30,-1,15,0.3,0.8,4,168,1,94,0.78,133657,0,133657,30,mpeg
+results/trafficcam_1_mpeg_0.4_30,0.4,-1,30,-1,15,0.3,0.8,4,186,4,74,0.827,203071,0,203071,30,mpeg
+results/trafficcam_1_mpeg_0.5_30,0.5,-1,30,-1,15,0.3,0.8,4,203,3,58,0.869,259273,0,259273,30,mpeg
+results/trafficcam_1_mpeg_0.6_30,0.6,-1,30,-1,15,0.3,0.8,4,202,1,59,0.871,338798,0,338798,30,mpeg
+results/trafficcam_1_mpeg_0.7_30,0.7,-1,30,-1,15,0.3,0.8,4,208,1,53,0.885,375498,0,375498,30,mpeg
+results/trafficcam_1_mpeg_0.8_30,0.8,-1,30,-1,15,0.3,0.8,4,216,1,44,0.906,468011,0,468011,30,mpeg
+results/trafficcam_1_mpeg_0.9_30,0.9,-1,30,-1,15,0.3,0.8,4,212,0,49,0.896,539474,0,539474,30,mpeg
+results/trafficcam_1_mpeg_1.0_30,1.0,-1,30,-1,15,0.3,0.8,4,207,0,54,0.885,670945,0,670945,30,mpeg
